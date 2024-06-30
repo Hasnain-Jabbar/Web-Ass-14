@@ -24,4 +24,4 @@ Array and matrix programming exercises
 22. Write a js program to right rotate an array.
 
 
-Submit: https://forms.gle/RrqSqhVntWQpPyFV7
+Submit: Https://forms.gle/RrqSqhVntWQpPyFV7
